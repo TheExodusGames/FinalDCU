@@ -1,0 +1,132 @@
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.csproj.AssemblyReference.cache
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmLogin.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.csproj.GenerateResource.cache
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.AssemblyInfoInputs.cache
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.AssemblyInfo.cs
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.csproj.CoreCompileInputs.cache
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.exe
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.dll.config
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.deps.json
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.runtimeconfig.json
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.runtimeconfig.dev.json
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.dll
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.pdb
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.csproj.CopyComplete
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.dll
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.pdb
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.genruntimeconfig.cache
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.Menu.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoUsuarios.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoMedicos.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmAgregarPruebasLab.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmEditPruebasLab.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoPruebasLab.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmAgregarMedico.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmAgregarUsuario.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoPacientes.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmAgregarPaciente.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoCitas.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmCitas.FrmAgregarCitas.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmCitas.FrmSeleccionarMedico.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmCitas.FrmSeleccionarPacientes.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmCitas.FrmSeleccionarPruebasLab.resources
+C:\Users\chaos\Desktop\Carpetas\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoResultLabs.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.exe
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.dll.config
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.deps.json
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.runtimeconfig.json
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.runtimeconfig.dev.json
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.dll
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.pdb
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.csproj.AssemblyReference.cache
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmAgregarMedico.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmAgregarPaciente.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmAgregarPruebasLab.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmAgregarUsuario.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmCitas.FrmAgregarCitas.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmCitas.FrmSeleccionarMedico.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmCitas.FrmSeleccionarPacientes.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmCitas.FrmSeleccionarPruebasLab.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmEditPruebasLab.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmLogin.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoCitas.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoMedicos.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoPacientes.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoPruebasLab.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoResultLabs.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoUsuarios.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.Menu.resources
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.csproj.GenerateResource.cache
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.AssemblyInfoInputs.cache
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.AssemblyInfo.cs
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.csproj.CoreCompileInputs.cache
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.csproj.CopyComplete
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.dll
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.pdb
+C:\Users\chaos\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.exe
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.dll.config
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.deps.json
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.runtimeconfig.json
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.dll
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Gestor de Pacientes.pdb
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmAgregarMedico.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmAgregarPaciente.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmAgregarPruebasLab.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmAgregarUsuario.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmCitas.FrmAgregarCitas.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmCitas.FrmSeleccionarMedico.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmCitas.FrmSeleccionarPacientes.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmCitas.FrmSeleccionarPruebasLab.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmEditPruebasLab.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmLogin.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoCitas.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoMedicos.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoPacientes.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoPruebasLab.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoResultLabs.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmMantenimientoUsuarios.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.Menu.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.csproj.CopyComplete
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.dll
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.pdb
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor de Pacientes.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.FrmCitas.ResultadosCloset.resources
+C:\Users\Alex\Desktop\Universidad\Cuatri3\Programacion 1\Practicas\Gestor de Pacientes\Gestor de Pacientes\obj\Debug\netcoreapp3.1\Gestor_de_Pacientes.ResultadosDeLasPruebas.resources

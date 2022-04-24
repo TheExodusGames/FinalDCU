@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc7763be-afe2-47a0-81c2-79feec25f3e4": {
+      "ProjectGuid": "cc7763be-afe2-47a0-81c2-79feec25f3e4",
+      "DisplayName": "Gestor de Pacientes",
+      "ColorIndex": 0
+    },
+    "7e4cb6a5-34a3-49a4-9a63-dc9b6b9646f1": {
+      "ProjectGuid": "7e4cb6a5-34a3-49a4-9a63-dc9b6b9646f1",
+      "DisplayName": "Database",
+      "ColorIndex": 1
+    },
+    "cb920809-fac6-405b-8b7a-48c89225e9a9": {
+      "ProjectGuid": "cb920809-fac6-405b-8b7a-48c89225e9a9",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

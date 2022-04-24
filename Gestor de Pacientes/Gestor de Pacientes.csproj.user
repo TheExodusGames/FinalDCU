@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FrmAgregarMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAgregarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAgregarPruebasLab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCitas\FrmAgregarCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCitas\FrmSeleccionarMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCitas\FrmSeleccionarPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCitas\FrmSeleccionarPruebasLab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmCitas\ResultadosCloset.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMantenimientoCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMantenimientoMedicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMantenimientoPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMantenimientoPruebasLab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMantenimientoResultLabs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmMantenimientoUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAgregarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResultadosDeLasPruebas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
